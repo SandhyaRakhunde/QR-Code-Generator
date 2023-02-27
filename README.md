@@ -1,12 +1,12 @@
 # QR-Code-Generator
 
-We can generate QR-Code of any url or text using QR-Code generator App.
+• We can generate QR-Code of any url or text using QR-Code generator App.
 
 Technology Used- 
-HTML,
-CSS,
-Javascript,
-API.
+• HTML
+• CSS
+• Javascript
+• API
 
 Functionality-
 User can generate QR-Code by entering any text or url in text area and CLicking on generate button.
